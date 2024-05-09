@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi, I'm Neramit Matarat.</h1>
-  <p>I'm interested in Full-stack Developer and investment in the Thai stock market.</p>
+  <p>I'm interested in Full-stack Developer and part-time trader in the Thai stock market.</p>
   <img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" width="300px" height="300px" />
 </div>
 
